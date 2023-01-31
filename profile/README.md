@@ -1,1 +1,1 @@
-This framework is implemented to study the specifications of the protocols used for self-sovereign identity. Be aware that that the libraries are not ready for production.
+The code in the repositories are used to study the specifications of self-sovereign identity and are not ready for use in a production environment. This code is not guaranteed to be secure, efficient, or production-ready and may contain errors or vulnerabilities. Please use caution and thoroughly test the code before using it in any critical systems.
